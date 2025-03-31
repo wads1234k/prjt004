@@ -19,6 +19,6 @@ Teachable Machine에서 학습한 모델을 이용해 객체를 실시간으로 
 
 ```bash
 pip install opencv-python tensorflow numpy
-
+```
 
 ![스크린샷 2025-03-31 170549](https://github.com/user-attachments/assets/bad5de2a-dc3a-4712-9902-d410b92919df)
